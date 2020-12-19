@@ -1,4 +1,4 @@
 # Aplicacion_BBDD
 Laboratorio de Bases de Datos
 
-DESARROLLO DE UNA APLICACIÓN CON ACCESO A UNA BASE DE DATOS
+Desarrollo de aplicación de acceso a base de datos
