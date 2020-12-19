@@ -1,0 +1,148 @@
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
+C:\Users\JOSE\source\repos\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\noeli\Desktop\Prac (1)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica_3.TipoPatineteUI.resources
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica_3.PatineteUi.resources
+C:\Users\JOSE\Desktop\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialClientesUI.resources
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialClientesUI.resources
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.PatineteUi.resources
+C:\Users\noeli\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.TipoPatineteUI.resources
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialClientesUI.resources
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.PatineteUi.resources
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.TipoPatineteUI.resources
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialPatinetesUi.resources
+C:\Users\JOSE\Desktop\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.RankingUI.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialClientesUI.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialPatinetesUi.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.PatineteUi.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.RankingUI.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.TipoPatineteUI.resources
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\noeli\Desktop\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialClientesUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialPatinetesUi.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.PatineteUi.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.RankingUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.TipoPatineteUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Nueva carpeta\Casi\Práctica 3 (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialClientesUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialPatinetesUi.resources
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.PatineteUi.resources
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.RankingUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica_3.TipoPatineteUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Nueva carpeta (2)\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\bin\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Resources.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica_3.ClientesUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica_3.Form1.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialClientesUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica_3.HistorialPatinetesUi.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica_3.PatineteUi.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica_3.RankingUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica_3.TipoPatineteUI.resources
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica 3.vbproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica 3.xml
+C:\Users\JOSE\Desktop\Nueva carpeta\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
